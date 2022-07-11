@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mamedli.farxad@gmail.com
+	name = Farhad Mammadli mamedli.farxad@gmail.com
